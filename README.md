@@ -18,8 +18,8 @@ V sedmé lekci jsme si ukázali základ třídy, která pomocí anotací a refle
 
 ```
 Double x = 12.456;
-String text = String.format("%5.2f", x);
-System.out.println(text); //
+String text = String.format("%.2f", x);
+System.out.println(text); //12.46
 
 ```
 
@@ -31,7 +31,7 @@ SimpleDateFormat simpleDateFormat = new SimpleDateFormat(pattern);
 
 Data date = new Date();
 
-String date = simpleDateFormat.format(date);
-System.out.println(date); //
+String text = simpleDateFormat.format(date);
+System.out.println(text); // 2021-05-19
 ```
 
