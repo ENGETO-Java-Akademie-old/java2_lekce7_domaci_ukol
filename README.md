@@ -14,7 +14,7 @@ V sedmé lekci jsme si ukázali základ třídy, která pomocí anotací a refle
 
 ## Hint
 
-1. Pro formát čísel použijte `String.format()` https://dzone.com/articles/java-string-format-examples
+1. Pro formát čísel použijte `String.format()` https://docs.oracle.com/javase/7/docs/api/java/util/Formatter.html
 
 ```
 Double x = 12.456;
