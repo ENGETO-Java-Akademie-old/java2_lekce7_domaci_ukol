@@ -5,12 +5,12 @@
 V sedmé lekci jsme si ukázali základ třídy, která pomocí anotací a reflexe umožní zapisovat soubory v CSV formátu do souboru. V domácím úkolu se k tomu vrátíme a úkolem bude takovou knihovnu doplnit a rozšířit.
 
 1. Navrhněte API pro knihovnu, tak jak vám přijde takovou knihovnu používát.
-1.1 Metoda na zápis do souboru (do kterého souboru, v jakém formátu, vypsat i hlavičku nebo ne, jak ošetřit vyjímky)
-1.2 Anotace pro úpravu chování (formát čísla, formát datumu, upper case, lower case)
+1.1. Metoda na zápis do souboru (do kterého souboru, v jakém formátu, vypsat i hlavičku nebo ne, jak ošetřit vyjímky)
+1.2. Anotace pro úpravu chování (formát čísla, formát datumu, upper case, lower case)
 2. Doplntě požadovanou funkcionality dané knihovny
 3. Ošetřete vyjímky a vyzkoušejte chování
-3.1 Zapisovaný objekt je null
-3.2 Do daného souboru nejde zapisovat
+3.1. Zapisovaný objekt je null
+3.2. Do daného souboru nejde zapisovat
 
 ## Hint
 
